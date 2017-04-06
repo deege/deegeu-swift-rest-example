@@ -8,7 +8,7 @@ The purpose of this repository is to supplement the video with code.
 
 Each main section listed below, has a corresponding directory. Inside the directory, there is a subdirectory for each video source code.
 
-This code is written and compiled for Swift 2.0
+This code is written and compiled for Swift 3.1, iOS 10.3 (Updated 04-06-2017)
 
 ## Getting help
 
