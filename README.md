@@ -1,6 +1,6 @@
-# How to make REST API calls & parse JSON with Swift 2.0 on DeegeU.com
+# How to make REST API calls & parse JSON with Swift 3.1 on DeegeU.com
 
-The purpose of this repository is to supplement the video with code.
+The purpose of this repository is to supplement the video with code. The video was created for Swift 2.0, but this code is updated for Swift 3.1.
 
 [![How to make REST API calls & parse JSON with Swift 2.0](http://img.youtube.com/vi/uQ_MyVDiSbo/0.jpg)](http://www.youtube.com/watch?v=uQ_MyVDiSbo)
 
